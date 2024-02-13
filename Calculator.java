@@ -44,7 +44,7 @@ class Calculator extends ExtendedClass{
        float square_result = calc.Square(2);
        System.out.println("Squared no of 2.="+square_result);
 
-       float cube_result= calc.Cube(5);
+       float cube_result= calc.Cube(4);
        System.out.println("Cube no of 5.="+cube_result);
 
        float mod_result= calc.Mod(10, 20);
